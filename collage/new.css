@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(213, 31, 204);
+}
+img
+{
+    display: block;
+    width: 480px;
+
+}
+
+input{
+    width : 580px;
+    line-height : 2px;
+    padding : 10px 20px ;
+    border : 1px solid #dfele5;
+    border-radius : 30px;
+    margin-buttom : 20px;
+}
+.container{
+    display : flex;
+    jistfy - content: center;
+}
